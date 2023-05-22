@@ -1,0 +1,10 @@
+package in.ineuorn.ai;
+
+public class StreamApi {
+
+	public static void main(String[] args) {
+	
+
+	}
+
+}
